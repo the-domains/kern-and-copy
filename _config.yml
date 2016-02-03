@@ -1,0 +1,28 @@
+name: 'Kern & Copy'
+favicon: null
+layout_spectrum: 0.33559753582812846
+typography_spectrum: 0.2966308710165322
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.42926958203315735
+  lightness: 0.9553251629695296
+  saturation: 0.7234349409118295
+  rhythmicContrast: 0.5840415544807911
+purpose: []
